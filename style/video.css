@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: radial-gradient(circle at center, #ffc371, #ff5f6d, #f33f4e);
+    margin: 10px;
+}
+
+.div2 {
+    margin: auto;
+}
+
+
+video {
+    height: 700px;
+    width: 1400px;
+}
+
+button {
+      padding: 1rem 2rem;
+      font-size: 1rem;
+      background-color: crimson;
+      border: none;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: darkred;
+    }
+
+.bla {
+    width: 20%;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
